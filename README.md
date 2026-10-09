@@ -2,6 +2,8 @@
 
 A web app that translates text between multiple languages. Built with a Python Flask backend and an HTML/CSS/JavaScript frontend.
 
+![Language Translation Tool](screenshot.png)
+
 ## Features
 
 - Translate text between 14 languages (English, Urdu, Arabic, Hindi, French, German, Spanish, Italian, Portuguese, Russian, Turkish, Chinese, Japanese, Korean)
